@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AEConsole",
+        "repositoryURL": "https://github.com/tadija/AEConsole.git",
+        "state": {
+          "branch": null,
+          "revision": "ddb0e4acc60eca4c3774b58a42c4f7b71f432e62",
+          "version": "0.6.1"
+        }
+      },
+      {
+        "package": "AELog",
+        "repositoryURL": "https://github.com/tadija/AELog.git",
+        "state": {
+          "branch": null,
+          "revision": "c960d9b36de25c342bac2052ca21acf9c7083029",
+          "version": "0.5.6"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "f4240bf022a69815241a883c03645444b58ac553",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "swift-log-format-and-pipe",
+        "repositoryURL": "https://github.com/Adorkable/swift-log-format-and-pipe.git",
+        "state": {
+          "branch": null,
+          "revision": "bd29badb9e6b18122ec10b84eed534db83cad279",
+          "version": "0.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
